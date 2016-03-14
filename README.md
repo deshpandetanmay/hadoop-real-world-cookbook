@@ -31,4 +31,4 @@ Amazon UK - http://www.amazon.co.uk/Hadoop-Real-World-Solutions-Cookbook-ebook/d
 
 Amazon India - http://www.amazon.in/Hadoop-Real-World-Solutions-Cookbook-ebook/dp/B01BYFJVZ4
 
-Amazon Australia - http://www.amazon.au/Hadoop-Real-World-Solutions-Cookbook-ebook/dp/B01BYFJVZ4
+Amazon Australia - http://www.amazon.com.au/Hadoop-Real-World-Solutions-Cookbook-ebook/dp/B01BYFJVZ4
